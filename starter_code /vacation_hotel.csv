@@ -1,43 +1,19 @@
 ,city,lon,lat,max_temp,humidity,cloudiness,wind_speed,country,date,hotel_name,hotel_address,hotel_rating
 0,Bilma,12.9164,18.6853,100.51,7,22,6.85,NE,1620843605,Expeditions Ténére voyages,Bilma,4.8
-1,Banikoara,2.4386,11.2985,96.76,22,54,3.96,BJ,1620843616,Hôtel de l'UCom CVPC,Banikoara,3.9
-2,Kumul,93.45,42.8,70.86,25,100,22.77,CN,1620843560,Laoyutang Resort,"Yizhou, Hami",
-3,Tessalit,1.0114,20.1986,104.27,6,36,11.88,ML,1620843682,,,
-4,Jiuquan,98.5174,39.7432,59.27,23,77,2.24,CN,1620843685,Jiuquan Hotel,"33 Jie Fang Lu, Suzhou Qu, Jiuquan Shi",3.9
-5,Ukiah,-123.2078,39.1502,82.74,24,1,3.44,US,1620843664,Hampton Inn Ukiah,"1160 Airport Park Boulevard, Ukiah",4.3
-6,Matagami,-77.6328,49.7502,54.19,28,1,9.71,CA,1620843760,Hôtel Matagami,"99 Boulevard Matagami, Matagami",4
-7,Benjamín Hill,-111.1,30.1667,82.47,9,0,8.88,MX,1620843760,Hotel Benjamín Hill,"Sin nombre No. 12 LB, INFONAVIT, Benjamín Hill",
-8,Guadalupe y Calvo,-106.9667,26.1,73.27,25,35,6.4,MX,1620843762,Hotel Pizarro,"Corona, El Palmito, Guadalupe y Calvo",4
-9,Sohāgpur,78.2,22.7,91.63,21,25,9.84,IN,1620843770,Hotel Vatika Inn- A unit of Hotel Ramayan,"near R.R.Jaiswal Petrol Pump, Sohagpur",3.8
-10,Neepawa,-99.4664,50.2289,67.68,25,22,9.42,CA,1620843837,"Westway Inn Motel, Neepawa","153 Main Street West, Neepawa",3.8
-11,Ati,18.3353,13.2154,97.07,18,68,4.0,TD,1620843925,,,
-12,Qena,32.7183,26.1615,87.12,11,0,10.07,EG,1620844003,"Grand hotel ""Quena""","Al Gomhoureya, Qism Qena, Qena",3.7
-13,Balotra,72.2333,25.8333,92.77,25,63,15.99,IN,1620844008,Hotel City Square,"opp. Dudh Dairy, Hotel City Square, Jodhpur Road, Near New Bus stand, opp. Dudh Dairy, Balotra",3.8
-14,Saint George,-113.5841,37.1041,71.4,12,1,1.01,US,1620843881,Best Western Plus Abbey Inn,"1129 South Bluff Street, St. George",4.6
-15,Yumen,97.2,40.2833,61.84,21,75,11.72,CN,1620844075,,,
-16,Angol,-72.7167,-37.8,63.46,30,3,6.33,CL,1620844077,Hospedaje,"Vergara 273, Angol",5
-17,Adrar,-10.0711,20.5022,99.86,8,0,15.86,MR,1620844078,,,
-18,Chacabuco,-60.4739,-34.6417,67.14,28,2,10.67,AR,1620844086,Club de Pesca Caza y Balneario,"25 de Mayo 87, Chacabuco",4.3
-19,Partāpur,74.1667,23.6,92.55,26,1,16.26,IN,1620844154,Hotel Deependra And Restaurent,"Banswara-Dungarpur highway,Main Bus-Stand,Partapur, Dist. Banswara, Partapur",3.8
-20,Arlit,7.3853,18.7369,101.08,5,10,6.58,NE,1620844158,Case de Passage De la Prefecture,"RN25, Arlit",4.5
-21,Nouakchott,-15.9785,18.0858,82.31,30,63,7.11,MR,1620843904,HOTEL IMAN فندق إيمان,Nouakchott,3.9
-22,Iranshahr,60.6848,27.2025,88.36,12,0,13.8,IR,1620844226,پلکه بزرگ,ايرانشهر، ايرانشهر، استان سیستان و بلوچستان، ايرانشهر، استان سیستان و بلوچستان، ايرانشهر،، فلکه ایران پیما،، فلکه ایران پیما،،,
-23,San Juan,-68.5364,-31.5375,74.97,24,0,6.33,AR,1620844229,Hotel Provincial,"Avenida José Ignacio de la Roza Oeste 132, San Juan",4
-24,Atar,-13.0499,20.5169,99.48,9,5,15.23,MR,1620844231,Oumou Elghoura,"Mbarka Oumara Derriere l'hopital regional, Atar",3.4
-25,Goundam,-3.6708,16.4145,101.41,9,83,8.57,ML,1620844232,,,
-26,Najrān,44.1277,17.4924,72.5,30,100,6.8,SA,1620844233,محمد هادي ال فطيح,Najran,
-27,Hurricane,-113.2899,37.1753,69.46,10,1,4.0,US,1620844168,Super 8 by Wyndham Hurricane Zion National Park,"65 South 700 West, Hurricane",3.5
-28,Yorkton,-102.4677,51.2167,63.93,14,20,8.05,CA,1620844308,Redwood Motel,"317 Broadway Street West, Yorkton",3.2
-29,Marrakesh,-8.0083,31.6315,80.65,16,0,6.91,MA,1620844311,Novotel Marrakech Hivernage,"Quartier De, Rue Haroun Errachid, Marrakech",4.2
-30,Bethanien,17.1583,-26.502,69.94,23,0,6.44,,1620844385,Bethanie Hotel,"C14, Bethanien",4.1
-31,Cocorit,-109.9667,27.5833,94.66,14,5,7.31,MX,1620844396,Kaba Motel,"carretera internacional km 9.5 nte, Esperanza",4.1
-32,Ubari,12.7805,26.5921,93.56,8,3,11.39,LY,1620844459,فندق أوباري,"Unnamed Road, أوباري،",2.8
-33,De Aar,24.0123,-30.6497,63.25,26,0,5.75,ZA,1620844471,Stoneburgh B&B,"19 Alida Street, De Aar",5
-34,Chesma,60.6533,53.8111,63.12,30,8,7.0,RU,1620844537,Gostinitsa,"Ulitsa Chapayeva, 71А, Chesma",4.3
-35,Abaeté,-45.4458,-19.16,83.1,24,99,5.19,BR,1620844540,Hotel Millenium,"Rua Frei Orlando, 32 - Amazonas, Abaeté",3.5
-36,Dutse,9.3392,11.7594,93.07,20,21,7.83,NG,1620844550,Central Mosque Galamawa,Nigeria,
-37,Guaíra,-48.3106,-20.3183,87.93,23,24,9.22,BR,1620844551,Hotel do Lago,"Avenida Gabriel Garcia Leal, 2380 - Parque Maracá, Guaíra",4.3
-38,Rawson,-65.1023,-43.3002,67.08,30,93,14.38,AR,1620844623,Hosteria Sampedro,"Belgrano 744, Rawson",4.2
-39,Azare,10.1948,11.6765,94.35,20,86,9.4,NG,1620844625,Muk hostel,"Aminu saleh college of education, Azare",
-40,Palmer,-72.3287,42.1584,65.71,30,40,5.01,US,1620844626,Wedgewood Motel,"1430 Park Street, Palmer",4.1
-41,Sioux Lookout,-91.917,50.1001,61.84,22,1,11.5,CA,1620844347,Knobby's Fly-In Camps,"25 Wellington Street, Sioux Lookout",5
+1,Tessalit,1.0114,20.1986,104.27,6,36,11.88,ML,1620843682,,,
+2,Benjamín Hill,-111.1,30.1667,82.47,9,0,8.88,MX,1620843760,Hotel Benjamín Hill,"Sin nombre No. 12 LB, INFONAVIT, Benjamín Hill",
+3,Ati,18.3353,13.2154,97.07,18,68,4.0,TD,1620843925,,,
+4,Qena,32.7183,26.1615,87.12,11,0,10.07,EG,1620844003,"Grand hotel ""Quena""","Al Gomhoureya, Qism Qena, Qena",3.7
+5,Saint George,-113.5841,37.1041,71.4,12,1,1.01,US,1620843881,Best Western Plus Abbey Inn,"1129 South Bluff Street, St. George",4.6
+6,Adrar,-10.0711,20.5022,99.86,8,0,15.86,MR,1620844078,,,
+7,Arlit,7.3853,18.7369,101.08,5,10,6.58,NE,1620844158,Case de Passage De la Prefecture,"RN25, Arlit",4.5
+8,Iranshahr,60.6848,27.2025,88.36,12,0,13.8,IR,1620844226,پلکه بزرگ,ايرانشهر، ايرانشهر، استان سیستان و بلوچستان، ايرانشهر، استان سیستان و بلوچستان، ايرانشهر،، فلکه ایران پیما،، فلکه ایران پیما،،,
+9,Atar,-13.0499,20.5169,99.48,9,5,15.23,MR,1620844231,Oumou Elghoura,"Mbarka Oumara Derriere l'hopital regional, Atar",3.4
+10,Goundam,-3.6708,16.4145,101.41,9,83,8.57,ML,1620844232,,,
+11,Hurricane,-113.2899,37.1753,69.46,10,1,4.0,US,1620844168,Super 8 by Wyndham Hurricane Zion National Park,"65 South 700 West, Hurricane",3.5
+12,Yorkton,-102.4677,51.2167,63.93,14,20,8.05,CA,1620844308,Redwood Motel,"317 Broadway Street West, Yorkton",3.2
+13,Marrakesh,-8.0083,31.6315,80.65,16,0,6.91,MA,1620844311,Novotel Marrakech Hivernage,"Quartier De, Rue Haroun Errachid, Marrakech",4.2
+14,Cocorit,-109.9667,27.5833,94.66,14,5,7.31,MX,1620844396,Kaba Motel,"carretera internacional km 9.5 nte, Esperanza",4.1
+15,Ubari,12.7805,26.5921,93.56,8,3,11.39,LY,1620844459,فندق أوباري,"Unnamed Road, أوباري،",2.8
+16,Dutse,9.3392,11.7594,93.07,20,21,7.83,NG,1620844550,Central Mosque Galamawa,Nigeria,
+17,Azare,10.1948,11.6765,94.35,20,86,9.4,NG,1620844625,Muk hostel,"Aminu saleh college of education, Azare",
